@@ -115,5 +115,4 @@ if(sortowanie === "sort-alfabetycznie")
 
 
       
-   // Z 1 zadaniem korzystałam z ai, a w drugim jak podpowiedział catch to wiedziałam, że to będzie do fetch tylko w złym miejscu napisałam i
-   // nie bylam pewna co napisac w srodku
+ 
