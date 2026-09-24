@@ -1,0 +1,65 @@
+
+body {
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    
+}
+.movie-card{
+    border: 1px solid black;
+    
+    font-size: 12px;
+    padding: 10px;
+    margin: 10px;
+    background-color: lightblue;
+    border-radius: 3%;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);
+font-family: Arial, sans-serif;
+    text-align: center;
+    
+
+}
+
+.cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 250px));
+     gap: 20px;
+     justify-content: ;
+     
+}
+
+
+   .tytul-card {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.rok-card {
+    color: #555;
+}
+
+.rezyser-card {
+    color: #444;
+}
+
+.gatunek-card {
+    color: #333;
+    font-weight: bold;
+}
+.search-input,
+.genre-select,
+.sort-select {
+    padding: 5px;
+    margin-bottom: 20px;
+    border: 1px solid #aaa;
+    border-radius: 5px;
+    font-size: 14px;
+    
+    
+}
+h1 {
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: 30px;
+}
